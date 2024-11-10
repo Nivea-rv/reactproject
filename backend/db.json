@@ -1,0 +1,28 @@
+{
+  "collect": [
+    {
+      "id": "c147",
+      "user": "nivee",
+      "date": "2024-10-10T15:32",
+      "gender": "female",
+      "textarea": "TN",
+      "email": "nivethi1002@gmail.com",
+      "num": "9361151885",
+      "text": "",
+      "": "NIL"
+    },
+    {
+      "id": "c147",
+      "user": "nivea",
+      "date": "2002-01-10",
+      "gender": "female",
+      "textarea": "TN",
+      "email": "nivethi1002@gmail.com",
+      "num": "9361151885",
+      "text": "",
+      "": "nil",
+      "male": "male",
+      "female": "female"
+    }
+  ]
+}
